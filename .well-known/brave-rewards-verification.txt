@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jpmikkers.github.io
+Token: 8a7a993bfd65b9a99e76af2372259da7fa3080a1803cc17c857e8c3c0b9974d5
